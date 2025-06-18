@@ -165,6 +165,4 @@ export default app;
 📧 [2002shalin@gmail.com](mailto:2002shalin@gmail.com)
 🌐 [LinkedIn](https://www.linkedin.com/in/shalin-shah0705/) 
 
----
 
-You can now copy-paste this entire block into your `README.md` file in VS Code or GitHub. If you’d like me to generate a `.env.example` or `LICENSE` file next, just let me know!
