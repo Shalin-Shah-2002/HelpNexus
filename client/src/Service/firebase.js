@@ -2,7 +2,7 @@ import { initializeApp, getApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyA9g8lf2kwJCUdTUubEiHhq2Yg0-YP4tso",
+    apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
     authDomain: "helpnexus-7d704.firebaseapp.com",
     projectId: "helpnexus-7d704",
     storageBucket: "helpnexus-7d704.appspot.com",
@@ -11,7 +11,6 @@ const firebaseConfig = {
     measurementId: "G-R7R4HL5Y69"
 };
 
-// Initialize Firebase
 let app;
 try {
     app = initializeApp(firebaseConfig);
