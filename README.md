@@ -162,8 +162,8 @@ export default app;
 ## ✍️ Author
 
 **Shalin Shah**
-📧 [kyo.69.722@gmail.com](mailto:kyo.69.722@gmail.com)
-🌐 [LinkedIn](https://linkedin.com/in/shalin-shah) *(Add if you want)*
+📧 [2002shalin@gmail.com](mailto:2002shalin@gmail.com)
+🌐 [LinkedIn](https://www.linkedin.com/in/shalin-shah0705/) 
 
 ---
 
